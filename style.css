@@ -1,0 +1,15 @@
+body {
+    background-color: #d7f6fa;
+
+}
+hr{
+            width:4%;
+            border-style:dotted;
+            color:rgb(8, 11, 12);
+            height:0px;
+            border-width:10px 0px 0px 0px;
+}
+h3,h1,h4{
+    color:rgb(76, 214, 214);
+    font-family:Arial, Helvetica, sans-serif;
+}
